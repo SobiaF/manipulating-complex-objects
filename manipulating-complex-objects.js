@@ -4,20 +4,20 @@ var myMusic = [
     "title": "Fever",
     "release_year": 2020,
     "formats": [
-      "Albums",
-      "Spotify",
-      "Online"
+      "albums",
+      "spotify",
+      "online"
     ],
-    "Ultimate groups": true
+    "ultimate groups": true
   },
   {
     "artist": "Bts",
     "title": "Dynamite",
     "release_year": 2020,
     "formats": [
-      "Albums",
-      "Spotify",
-      "Online"
+      "albums",
+      "spotify",
+      "online"
     ]
   }
 ];
